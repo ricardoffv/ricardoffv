@@ -17,7 +17,7 @@ Aqui estão alguns projetos de destaque:
 * **Projetos de Ciência de Dados (Graduação):** https://github.com/ricardoffv/dataScienceNotebooks
 * **Projetos de Data Mining (em colaboração com [André Ambrósio](https://github.com/andrealvesambrosio)) (Graduação):** https://github.com/ricardoffv/dataMining
 * **Projeto de Processamento de Imagens (em colaboração com [Lucas Sugi](https://github.com/LucasSugi)) (Graduação):** https://github.com/ricardoffv/Processamento-de-Imagens_Projeto-Final
-* **Análises de Datasets do Kaggle (em colaboração com [Lucas Hermeto](https://github.com/LucasHermeto):** https://github.com/ricardoffv/kaggle_analysis
+* **Análises de Datasets do Kaggle (em colaboração com [Lucas Hermeto](https://github.com/LucasHermeto)):** https://github.com/ricardoffv/kaggle_analysis
  
 
 ---

@@ -1,16 +1,17 @@
-### Hi there 👋
+# Ricardo Vale
+<sub>*Data Science Master Candidate* at Universidade de São Paulo</sub>
 
-<!--
-**ricardoffv/ricardoffv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minha experiência profissional mais recente envolve desenvolvimento web.
 
-Here are some ideas to get you started:
+**Background in:** Python, Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Links:**
+* [LinkedIn](https://www.linkedin.com/)
+* [Medium](https://www.medium.com)
+
+## Projetos:
+Aqui estão alguns projetos de destaque:
+
+* **Tutorial1:** https://localhost:3000
+---
+

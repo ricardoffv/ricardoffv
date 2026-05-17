@@ -9,16 +9,13 @@ After a successful switch to the Data corporative positions, I have profesional 
 * [LinkedIn](https://www.linkedin.com/in/ricardo-vale-239947112/)
 * [Medium](https://medium.com/@ricardofrancavale)
 
-## Projetos:
+## Projects:
 Here are some highlight projects:
 
 * **Sells Management Data Analysis:** https://github.com/ricardoffv/gerenciador_vendas
-* **QuarentenaDados challenges from Alura:** https://github.com/ricardoffv/quarentena-dados
 * **Data Science Projects (Bach.):** https://github.com/ricardoffv/dataScienceNotebooks
 * **Data Mining Projects (in collaboration with [André Ambrósio](https://github.com/andrealvesambrosio)) (Bach.):** https://github.com/ricardoffv/dataMining
-* **Image Processing Project (in collaboration with [Lucas Sugi](https://github.com/LucasSugi)) (Bach.):** https://github.com/ricardoffv/Processamento-de-Imagens_Projeto-Final
-* **Kaggle Datasets Analysis (in collaboration with [Lucas Hermeto](https://github.com/LucasHermeto)):** https://github.com/ricardoffv/kaggle_analysis
- 
+* **Image Processing Project (in collaboration with [Lucas Sugi](https://github.com/LucasSugi)) (Bach.):** https://github.com/ricardoffv/Processamento-de-Imagens_Projeto-Final 
 
 ---
 

@@ -1,5 +1,5 @@
 # Ricardo Vale
-<sub>*Data Science Master Candidate* at Universidade de São Paulo</sub>
+<sub>*Computer Science + Data Science Bachelor* at Universidade de São Paulo</sub>
 
 After a successful switch to the Data corporative positions, I have profesional background in Agile, Scaled Agile, microservices, ETLs, data engineering processes and BI analysis. Due to that, my GitHub is whole dedicated to Data Projects, something that started since 2017 during my undergraduate research project based in the application of classification Machine Learning algorithms in tumor recognition.
 
